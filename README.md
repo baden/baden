@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет 👋
+
+Да, это мой профиль. Согласен, не густо.
+
+Кратко о том, что я использую и на чем пишу: С, Erlang, Elm, JS, HTML5, MongoDB, KiCad, Python, Hetzner.
+
+Не верьте этому:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baden&hide=Shell,Racket,GLSL&langs_count=8">
+ума не приложу как оно считает.
 
 <!--
 **baden/baden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
